@@ -1,0 +1,5 @@
+venv/
+catboost_info/
+__pycache__/
+*.pyc
+beer_reviews.csv
